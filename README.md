@@ -1,5 +1,5 @@
 # I CSI 333 (= I CEN 333) Programming at the Hardware Software Interface (4)
-Instruction set architecture of contemporary computers; Boolean logic, memory, registers, instructions and interrupts. Assembly language programming; assembler passes, symbols, macros, function linkage and separate compilations. C language programming; syntax, control, types, abstractions, pointers and strings. Dynamic memory, standard and user written libraries. ANSI and C++ standards. Instruction set simulation. Only one version may be taken for credit. Prerequisite(s): a grade of C or better required in I CSI/I CEN 213.
+Instruction set architecture of contemporary computers; Boolean logic, memory, registers, instructions and interrupts. Assembly language programming; assembler passes, symbols, macros, function linkage and separate compilations. C language programming; syntax, control, types, abstractions, pointers and strings. Dynamic memory, standard and user written libraries. ANSI and C++ standards. Instruction set simulation. 
 
 ## p1:
 This C program converts the decimal integer d into its equivalent number in radix r.  
