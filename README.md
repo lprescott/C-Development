@@ -45,3 +45,22 @@ Assumptions:
     1. The MAL program in the input file won't contain any errors. 
     2. Every identifier will be defined somewhere in the MAL program. 
     3. There will be no multiply defined identifiers. 
+
+# p5:
+p5a.mal prompts the user for a positive decimal integer, reads a positive decimal integer typed by the user and outputs the following: 
+	
+1. The total number of 1's in the right half of the binary representation of the integer.
+2. The total number of 0's in the left half of the binary representation of the integer.
+3. The highest power of 2 that evenly divides the integer.
+4. The value of the largest digit in the decimal representation of the integer.
+
+p5b.mal prompts the user for a line of text and reads the line inputted by the user. If the line contains just white space characters the program outputs the message "Line contains only white space characters."
+
+If the input is not empty, the program computes and outputs the following:
+
+1. The number of non-whitespace characters in the line. 
+2. The number of words in the line.
+3. The maximum length of a word in the line.
+4. The minimum length of a word in the line.
+5. The word of maximum length in the line. If there are two or more words of maximum length in the line, then the program prints the word of maximum length that appears first in the line.
+6. The word of minimum length in the line. If there are two or more words of minimum length in the line, then the program prints the word of minimum length that appears first in the line.
